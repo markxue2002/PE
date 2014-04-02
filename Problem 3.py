@@ -16,7 +16,6 @@ def primefactor(n):
         if (n % i) == 0:
             n = n / i
             prime = i
-            i = 2
         else:
             i = i + 1
 
