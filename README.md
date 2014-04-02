@@ -1,0 +1,1 @@
+Solutions to Project Euler I did for fun. 
